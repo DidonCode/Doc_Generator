@@ -1,0 +1,69 @@
+@category start
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@category middle
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@category end
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
+
+@func
+@name stringSplit
+@param string line
+@param string regex
+@return String[]
+@desc Fonction qui permet de decouper un string en tableaux de string
+@func
